@@ -16,7 +16,8 @@
   * There 1549 mentorship eligible employees which is not enough supply for the demand of the silver tsunami. Outside help will be needed when the new hires get onboarded into the company. 
   * An additional query that I performed was the breakdown of the total amount of salary lost by each job title. This breakdown helps show how much overhead the company will get back and potentially how much money to invest in each department/role. For example, the Senior Staff positions made the most salary so perhaps the most money will go into these jobs to recruit new candidates. 
   
-  ![Salary breakdown](https://github.com/chenylk/Pewlett-Hackard-Analysis/blob/master/Data/salary_breakdown.PNG).
+ 
+ ![Salary breakdown](https://github.com/chenylk/Pewlett-Hackard-Analysis/blob/master/Data/salary_breakdown.PNG).
   
   * A second query that I performed was grouping the amount of people retiring from each department. This would allow management to get a more comprehensive look at how this silver tsunami will shake up the company. With this information, management can make better decisions about where funding is allocated and which departments will need more mentorship.
  
