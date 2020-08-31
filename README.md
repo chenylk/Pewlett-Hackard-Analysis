@@ -8,7 +8,8 @@
  * The Senior engineering and staff positions are the highest amount of retirees by position. A lot of promotions will need to happen to fill these senior/leadership roles
  * There are a lot of eligible mentors. A further analysis will need to be done to determine who will take over these mentor roles. 
  * Given that most of the retirees are in their 60's, the decision will have to be made to either hire people of older age or younger age. The younger aged people could pay off in the long run because they will be with the company longer and gain insightful experience along the way. 
- ![Titles_retire_chart](https://github.com/chenylk/Pewlett-Hackard-Analysis/blob/master/Data/unique_titles%20graphic.PNG).
+
+![Titles_retire_chart](https://github.com/chenylk/Pewlett-Hackard-Analysis/blob/master/Data/unique_titles%20graphic.PNG).
  
  
 ## Summary
